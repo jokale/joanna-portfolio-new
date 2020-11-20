@@ -4,7 +4,7 @@ import React from 'react'
 class Home extends React.Component{
     render(){
         return(
-            <div>
+            <div id="home">
                 <center>
                  <h1>Joanna Kalema</h1>
                  <h4>Web developer</h4>
