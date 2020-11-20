@@ -45,6 +45,14 @@ class Navbar extends React.Component {
             background: '#FFFFFF'
           }}
         >work</NavLink></h6>
+        <h6><NavLink
+          to="/contact"
+          exact
+          style={link}
+          activeStyle={{
+            background: '#FFFFFF'
+          }}
+        >contact</NavLink></h6>
           
       </div>
     )
