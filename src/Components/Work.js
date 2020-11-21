@@ -11,6 +11,7 @@ class Work extends React.Component{
         
                 <h1>Work</h1>
                 <br></br> <img id="one-pic" src={one} alt="projectone" /> <br></br>
+
                 <br></br> <img id="two-pic" src={two} alt="projecttwo" />  <br></br>
                 <br></br> <img id="three-pic" src={three} alt="projectthree" /> <br></br>
 

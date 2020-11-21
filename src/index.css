@@ -25,3 +25,20 @@ h1,h2,h3,h4,h5,h6 {
 div#home{
   position: relative;top: 90px;
 }
+
+
+
+img {
+  float: center;
+  width:  100px;
+  /* height: 100px; */
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  
+}
+
+img:hover {
+    opacity: 0.5;
+  
+}
