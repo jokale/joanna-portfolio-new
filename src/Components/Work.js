@@ -10,7 +10,7 @@ class Work extends React.Component{
             <div>
         
                 <h1>Work</h1>
-                <br></br> <a href="https://thefitnessoverload.netlify.app/" target="blank"><button><img id="one-pic" src={one} alt="projectone" /> <br></br>
+                <br></br> <a href="https://thefitnessoverload.netlify.app/" target="blank" ><button><img id="one-pic" src={one} alt="projectone" /> <br></br>
                     </button></a>
 
                 <br></br> <a href="https://annaojatleir.netlify.app/" target="blank"><button><img id="two-pic" src={two} alt="projecttwo" /></button></a>  <br></br>
