@@ -14,7 +14,7 @@ const link = {
   position: 'right',
   display: 'flex',
   bottom: '10px',
-  opacity: '0.3',
+  opacity: '0.4',
 
 }
  
@@ -27,7 +27,8 @@ class Navbar extends React.Component {
           exact
           style={link}
           activeStyle={{
-            background: '#FFFFFF'
+            background: '#FFFFFF',
+            opacity: '0.5',
           }}
         >.home()</NavLink></h6>
         <h6><NavLink
