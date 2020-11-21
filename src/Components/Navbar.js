@@ -5,7 +5,7 @@ const link = {
   width: '20px',
   padding: '9px',
   margin: '0 30px 5px',
-  background: '#fffff',
+  background: '#cec6c6',
   textDecoration: 'none',
   color: 'grey',
   fontFamily: 'Inconsolata',
@@ -13,7 +13,8 @@ const link = {
   textAlign: 'right',
   position: 'right',
   display: 'flex',
-  bottom: '10px'
+  bottom: '10px',
+  opacity: '0.3',
 
 }
  
