@@ -6,8 +6,9 @@ class Home extends React.Component{
         return(
             <div id="home">
                 <center>
-                 <h1>Joanna Kalema</h1>
-                 <h4>Web developer</h4>
+                 <h1>My name is Joanna Kalema</h1>
+                 <h4>I am a web developer</h4>
+                 <h5><a href="http://localhost:3000/about">Check out my story</a></h5>
                 </center>
             </div>
         )

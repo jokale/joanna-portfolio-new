@@ -7,13 +7,18 @@ class About extends React.Component{
             <div>
                 <center>
                 <h3>My name is Joanna if I hadn't already mentioned</h3>
-                <p>I am a junior web developer, but leaning towards frontend development. <br></br> I was not always a developer, I intially studied Economics and Politics (which I actually found interesting) <br></br>
-                Until one day whilst in my third year of university sitting in a boring lecture I thought to myself I don't want to be an economist or politician. <br></br> Despite the intensity of my final year of university I set on a task to find what I truly liked and enjoyed doing and what I could see myself doing. <br></br>
-                I have always considered myself somewhat creative yet stifled by more 'academic' choices from a levels up until university. <br></br> I battled with the idea of UX/UI having seen someone on Twitter speak about it and how much they enjoyed it. After much research and lots of deliberation, I was set I was going to be a UX/UI developer. <br></br> 
-                I was so sure but then I thought to myself where do I start? I scrowered the internet emailing people with the job title, emailing agenicies if they had any internships. No reply. <br></br> Speaking to my brother in law (former Software Engineer now working in DevOps) I expressed my disappointment....          
-                    
-                    </p></center>
-            </div>
+                <p>I am a junior web developer, but leaning towards frontend development. <br></br> 
+                I was not always a developer, I intially studied Economics and Politics (which I actually found interesting) <br></br> 
+                Till I realised I wanted to get into technology, specfically UX/UI <br></br>
+                After much delibaration I figured it would be better to become a Full stack developer <br></br> 
+                The rest was history, I began to self teach after I graduated university in July 2019 up until Decemeber of 2019 whereby I enrolled in Flatiron School <br></br>
+               Software Engineering Immersive course and finished in June 2020 and have been coding and learning ever since <br></br> Including this very portfolio you are looking at.
+
+
+                </p>
+                <p>Check out my <a href="https://learn.co/alpha-convention-4182/resume" target="blank">resume</a> for more information </p>
+                 </center> 
+           </div>
         )
     }
 }
