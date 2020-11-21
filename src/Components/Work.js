@@ -10,10 +10,11 @@ class Work extends React.Component{
             <div>
         
                 <h1>Work</h1>
-                <br></br> <img id="one-pic" src={one} alt="projectone" /> <br></br>
+                <br></br> <a href="https://thefitnessoverload.netlify.app/" target="blank"><button><img id="one-pic" src={one} alt="projectone" /> <br></br>
+                    </button></a>
 
-                <br></br> <img id="two-pic" src={two} alt="projecttwo" />  <br></br>
-                <br></br> <img id="three-pic" src={three} alt="projectthree" /> <br></br>
+                <br></br> <a href="https://annaojatleir.netlify.app/" target="blank"><button><img id="two-pic" src={two} alt="projecttwo" /></button></a>  <br></br>
+                <br></br> <a href="https://github.com/jokale/TodoAppRN" target="blank"><button><img id="three-pic" src={three} alt="projectthree" /> </button></a><br></br>
 
             </div>
         </center>
